@@ -1,0 +1,11 @@
+This is the sales data with product information on September.
+Prono	Fullname	Price	Volum	
+101	mango	3.50	41	10% off
+103	banana	2.80	56	none
+105	pineapple	4.10	71	none
+106	blueberry	5.00	88	10% off
+106	blueberry	5.00	91	none
+108	cucumber	1.90	38	none
+110	broccoli	3.10	73	10% off
+111	celery	1.90	95	20% off
+112	pea	4.50	36	none
